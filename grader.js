@@ -20,7 +20,7 @@ var assertValidURL = function(urlStr) {
 		console.log("Please enter a URL string. Exiting.");
 		process.exit(1);
 	}
-	var urlregx = new RegExp("^(http:\/\/www.|https:\/\/www.|ftp:\/\/www.|www.){1}([0-9A-Za-z]+\.)");
+	var urlregx = new RegExp("^(http:\/\/|https:\/\/|ftp:\/\/|www.){1}([0-9A-Za-z]+\.)");
 	if (urlregx.test(urlStr)){
 		return(urlStr);
 	}

@@ -1,4 +1,4 @@
-<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 06:05:38 2013 <![endif]-->
+<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 11:41:06 2013 <![endif]-->
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html lang="en-us" class="no-js ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]> <html lang="en-us" class="no-js ie lt-ie9 lt-ie8"> <![endif]-->
@@ -86,7 +86,7 @@ $(document).ready(function() {
 
 	
 <!-- ==== SITE HEADER ==== -->
-<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 06:05:40 2013 <![endif]-->
+<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 11:41:07 2013 <![endif]-->
 
 <header id="site-header">
 <!-- Constraint kept separate from header so header can be
@@ -272,6 +272,16 @@ type: "-1"
 
 <div class="primary-col">
 
+
+				<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 11:50:10 2013 <![endif]-->
+<div class="ticker is-breaking">
+<h2>Breaking</h2>
+
+<ul>
+<li class="current"><a href="http://world.time.com/2013/07/28/israel-agrees-to-free-104-palestinian-prisoners/"><b>Israel agrees to free 104 Palestinian prisoners 
+</b></a></li></ul>
+</div>
+ 
 <!-- ==== LEAD CONTENT (default) ==== -->
 <section class="lead-content article-ver">
 <div class="primary-lead-area">
@@ -280,19 +290,20 @@ type: "-1"
 		
 		
 		<figure class="entry-thumb entry-thumb-m">
-<a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">
-  <img src="http://img.timeinc.net/time/daily/2013/1307/485_ids_wealth_0727.jpg" alt="" title="">
+<a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">
+  <img src="http://img.timeinc.net/time/daily/2013/1307/485_pol_warren_0728.jpg" alt="Rick Warren, Pastor, Saddleback Church (Lake Forest, California), speaks at the Clinton Global Initiative (CGI) September 26, 2008 in New York." title="Rick Warren, Pastor, Saddleback Church (Lake Forest, California), speaks at the Clinton Global Initiative (CGI) September 26, 2008 in New York.">
 </a>
-<figcaption><small class="entry-thumb-credit">Getty Images</small></figcaption> </figure>
+<figcaption><small class="entry-thumb-credit">STAN HONDA / AFP / Getty Images</small></figcaption> </figure>
 
 
 			
 		<header>
-		<h1><a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">What It Means to Be Wealthy in America Today</a></h1>
-		<span class="byline">By Brad Tuttle</span>
+		<h1><a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">Rick Warren Preaches First Sermon Since Son's Suicide
+</a></h1>
+		<span class="byline">By Elizabeth Dias</span>
 		</header>
 		
-				<p>A new survey shows that America's rich don't actually consider themselves rich. Which begs the question: what does <i>wealthy</i> even mean?</p>
+				<p>Almost four months after their son committed suicide, Rick Warren and his wife Kay addressed their congregation for the first time on Saturday, promising to help remove the stigma of mental illness from the church</p>
 				
 			
 		<ul class="list">
@@ -348,19 +359,17 @@ type: "-1"
 
 <section class="featured-photography module">
 
-<!--[if IE 5]> Vignette StoryServer 5.0 Sat Jul 27 15:23:13 2013 <![endif]-->
+<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 11:05:49 2013 <![endif]-->
 <h3 class="section-title"><a href="http://www.time.com/time/photoessays">Photography</a></h3>
 				
 				
 								<header class="primary-photo">	
-								<a href="http://lightbox.time.com/2013/07/26/pictures-of-the-week-july-19-july-26/
-">
-									<img src="http://img.timeinc.net/time/daily/2013/1307/485_lb_potw_0728.jpg" alt="June 22, 2013. Palestinian laborers from the West Bank illegally cross Israel&#39;s controversial barrier in the southern West Bank." title="June 22, 2013. Palestinian laborers from the West Bank illegally cross Israel&#39;s controversial barrier in the southern West Bank." />
+								<a href="http://world.time.com/2013/07/27/scores-killed-in-latest-cairo-protests/">
+									<img src="http://img.timeinc.net/time/daily/2013/1307/485_int_egyptgallery_0727.jpg" alt="Supporters of Egypt&#39;s ousted President Mohammed Morsi carry an injured man to a field hospital  following clashes with security forces at Nasr City, where pro-Morsi protesters have held a weeks-long sit-in, in Cairo, July 27, 2013." title="Supporters of Egypt&#39;s ousted President Mohammed Morsi carry an injured man to a field hospital  following clashes with security forces at Nasr City, where pro-Morsi protesters have held a weeks-long sit-in, in Cairo, July 27, 2013." />
 								</a>
-								<small class="entry-thumb-credit">Ammar Awad / Reuters</small>
-								<h2><a href="http://lightbox.time.com/2013/07/26/pictures-of-the-week-july-19-july-26/
-">The Week in News, Through the Photographer's Lens</a></h2>
-								<p class="subhead">From the birth of the royal baby to the Pope's visit to Brazil and silhouettes captured across the world, TIME presents the best pictures of the week</p>
+								<small class="entry-thumb-credit">Khalil Hamra / AP</small>
+								<h2><a href="http://world.time.com/2013/07/27/scores-killed-in-latest-cairo-protests/">Scores Killed in Latest Cairo Protests</a></h2>
+								<p class="subhead">In the country's bloodiest day since the ouster of president Mohamed Morsi earlier this month, at least 65 of his backers were killed in violent protests in Cairo on Saturday</p>
 								</header>
 							
 							
@@ -373,10 +382,10 @@ type: "-1"
 			  				
 				
 								<div class="photo">
-								<a href="http://world.time.com/2013/07/26/north-koreas-totalitarian-tableau-scenes-from-the-mass-games/">
-								<img src="http://img.timeinc.net/time/daily/2013/1307/232_int_nkorea_0726.jpg" alt="North Korean students use different colored cardboard to form a picture of a child in uniform as a background during a mass gymnastic and artistic performance &quot;Arirang&quot;, in Pyongyang July 26, 2013." title="North Korean students use different colored cardboard to form a picture of a child in uniform as a background during a mass gymnastic and artistic performance &quot;Arirang&quot;, in Pyongyang July 26, 2013." />
-								<h2>North Korea's Totalitarian Tableau: Scenes From the Mass Games
-</h2>
+								<a href="http://lightbox.time.com/2013/07/26/pictures-of-the-week-july-19-july-26/
+">
+								<img src="http://img.timeinc.net/time/daily/2013/1307/232_lb_potw_0727.jpg" alt="July 25, 2013. A handout image released by the Syrian opposition&#39;s Shaam News Network allegedly shows the Khaled bin Walid mosque whose mausoleum has been partially destroyed in the al-Khalidiyah neighbourhood of the central Syrian city of Homs." title="July 25, 2013. A handout image released by the Syrian opposition&#39;s Shaam News Network allegedly shows the Khaled bin Walid mosque whose mausoleum has been partially destroyed in the al-Khalidiyah neighbourhood of the central Syrian city of Homs." />
+								<h2>The Week in News, Through the Photographer's Lens</h2>
 								</a>
 								</div>
 								
@@ -384,9 +393,10 @@ type: "-1"
 			  				
 				
 								<div class="photo">
-								<a href="http://life.time.com/history/photos-of-americas-womens-army-auxiliary-corps-1942/#1">
-								<img src="http://img.timeinc.net/time/daily/2013/1307/232_life_WAACs_0727.jpg" alt="Mary Yates, 26, WAACs, 1942." title="Mary Yates, 26, WAACs, 1942." />
-								<h2>Take off the Silk, Put on the Khaki': America's First Women Soldiers, 1942</h2>
+								<a href="http://world.time.com/2013/07/26/north-koreas-totalitarian-tableau-scenes-from-the-mass-games/">
+								<img src="http://img.timeinc.net/time/daily/2013/1307/232_int_nkorea_0726.jpg" alt="North Korean students use different colored cardboard to form a picture of a child in uniform as a background during a mass gymnastic and artistic performance &quot;Arirang&quot;, in Pyongyang July 26, 2013." title="North Korean students use different colored cardboard to form a picture of a child in uniform as a background during a mass gymnastic and artistic performance &quot;Arirang&quot;, in Pyongyang July 26, 2013." />
+								<h2>North Korea's Totalitarian Tableau: Scenes From the Mass Games
+</h2>
 								</a>
 								</div>
 								
@@ -400,17 +410,17 @@ type: "-1"
 			
 		<div class="dont-miss-leader umma" data-set="move-markup-a">
 		<div class="thumb">
-									<a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">
+									<a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/">
 									
 									
 									<div data-responsive>
-									    <!-- {"title":"Evangelical pastor Rick Warren speaks at the Islamic Society of North America&#39;s 46th annual convention Saturday, July 4, 2009, in Washington.","alt":"Evangelical pastor Rick Warren speaks at the Islamic Society of North America&#39;s 46th annual convention Saturday, July 4, 2009, in Washington.","sources":{"s":"http://img.timeinc.net/time/daily/2013/1307/232_pol_rickwarren_0727.jpg","l":"http://img.timeinc.net/time/daily/2013/1307/360_pol_rickwarren_0727.jpg"},"breakpoints":{"0":"l 1x","390":"s 1x","670":"l 1x","940":"s 1x"}} -->
-										<noscript><img src="http://img.timeinc.net/time/daily/2013/1307/232_pol_rickwarren_0727.jpg" alt="Evangelical pastor Rick Warren speaks at the Islamic Society of North America&#39;s 46th annual convention Saturday, July 4, 2009, in Washington."></noscript>
+									    <!-- {"title":"New Jersey Gov. Chris Christie listens to a question during a news conference, June 4, 2013, in Trenton, N.J.","alt":"New Jersey Gov. Chris Christie listens to a question during a news conference, June 4, 2013, in Trenton, N.J.","sources":{"s":"http://img.timeinc.net/time/daily/2013/1306/232_pol_christie_0604.jpg","l":"http://img.timeinc.net/time/daily/2013/1306/360_pol_christie_0604.jpg"},"breakpoints":{"0":"l 1x","390":"s 1x","670":"l 1x","940":"s 1x"}} -->
+										<noscript><img src="http://img.timeinc.net/time/daily/2013/1306/232_pol_christie_0604.jpg" alt="New Jersey Gov. Chris Christie listens to a question during a news conference, June 4, 2013, in Trenton, N.J."></noscript>
 									</div>
 									</a>
 									</div>
-		<h2><a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">Rick Warren Preaches First Sermon Since Son's Suicide</a></h2>
-		<p>Four months after their son committed suicide, Rick Warren and his wife Kay promised to remove the stigma of mental illness from the church</p>
+		<h2><a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/">The GOP Foreign Policy War Is Finally Here</a></h2>
+		<p> For years foreign policy issues have divided libertarians and neoconservatives. But now, the false air of Republican cohesion has been thrown out the window</p>
 		<ul class="related-stories" style="padding-left: 20px">
 		
 		</ul>
@@ -420,12 +430,15 @@ type: "-1"
 			<div class="dont-miss umma" data-set="move-markup-b">
 				<div class="seperator"></div>
 				
-				<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 06:05:35 2013 <![endif]-->
+				<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 11:09:53 2013 <![endif]-->
 <div class="listing">
-<div class="content-block"><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_int_egypt1_0727.jpg" /></a><div class="headline"><h4><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/">Violent Day Widens Egypt's Divide</a></h4><p>More than 65 killed amid clashes in Cairo</p></div></div><div class="content-block"><a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/"><img src="http://img.timeinc.net/time/daily/2013/1306/66_pol_christie_0604.jpg" /></a><div class="headline"><h4><a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/">The GOP Foreign Policy War is Finally Here</a></h4><p>Christie calls libertarianism a 'very dangerous thought'</p></div></div><div class="content-block"><a href="http://swampland.time.com/2013/07/27/states-seek-a-way-to-pass-on-digital-accounts-after-you-die/
+<div class="content-block"><a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_ids_wealth_0727.jpg" /></a><div class="headline"><h4><a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">What It Means to Be Wealthy in America</a></h4><p>Survey shows the rich don't consider themselves rich</p></div></div><div class="content-block"><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_int_egypt1_0727.jpg" /></a><div class="headline"><h4><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/">Violent Day Widens Egypt's Divide</a></h4><p>More than 65 killed amid clashes in Cairo</p></div></div><div class="content-block"><a href="http://swampland.time.com/2013/07/27/states-seek-a-way-to-pass-on-digital-accounts-after-you-die/
 "><img src="http://img.timeinc.net/time/daily/2013/1307/66_pol_data_0727.jpg" /></a><div class="headline"><h4><a href="http://swampland.time.com/2013/07/27/states-seek-a-way-to-pass-on-digital-accounts-after-you-die/
-">States Seek Ways to Pass On Digital Assets</a></h4><p>What happens to our digital life when we die?</p></div></div><div class="content-block"><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace"><img src="http://img.timeinc.net/time/daily/2013/1306/66_id_obesity_0619.jpg" /></a><div class="headline"><h4><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace">You Can Be Fired for Being Fat</a></h4><p>NJ judge upholds workplace weight discrimination</p></div></div><div class="content-block"><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_pol_holder_0727.jpg" /></a><div class="headline"><h4><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/">Holder Takes Fight for Voting Rights to Texas
-</a></h4><p>Administration seeks ways to continue pre-clearance</p></div></div><div class="content-block"><a href="http://science.time.com/2013/07/25/how-the-moon-messes-with-your-sleep/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_sci_moon_0725.jpg" /></a><div class="headline"><h4><a href="http://science.time.com/2013/07/25/how-the-moon-messes-with-your-sleep/">Bad Sleep? Blame the Moon</a></h4><p>Lunar cycles affect our slumber</p></div></div><div class="content-block"><a href="http://healthland.time.com/2013/07/26/hospitals-as-health-nannies-prescriptions-for-fruits-and-other-unusual-ways-to-keep-the-doctor-away/
+">States Seek Ways to Pass On Digital Assets</a></h4><p>What happens to our digital life when we die?</p></div></div><div class="content-block"><a href="http://newsfeed.time.com/2013/07/28/introducing-the-twitter-hotel/
+"><img src="http://img.timeinc.net/time/daily/2013/1305/66_tl_twitter_0528.jpg" /></a><div class="headline"><h4><a href="http://newsfeed.time.com/2013/07/28/introducing-the-twitter-hotel/
+">Introducing the Twitter Hotel
+</a></h4><p>Finally, a vacation destination for Tweetaholics</p></div></div><div class="content-block"><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace"><img src="http://img.timeinc.net/time/daily/2013/1306/66_id_obesity_0619.jpg" /></a><div class="headline"><h4><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace">You Can Be Fired for Being Fat</a></h4><p>NJ judge upholds workplace weight discrimination</p></div></div><div class="content-block"><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_pol_holder_0727.jpg" /></a><div class="headline"><h4><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/">Holder Takes Fight for Voting Rights to Texas
+</a></h4><p>Administration seeks ways to continue pre-clearance</p></div></div><div class="content-block"><a href="http://healthland.time.com/2013/07/26/hospitals-as-health-nannies-prescriptions-for-fruits-and-other-unusual-ways-to-keep-the-doctor-away/
 "><img src="http://img.timeinc.net/time/daily/2013/1302/66_hlt_hospitals_0726.jpg" /></a><div class="headline"><h4><a href="http://healthland.time.com/2013/07/26/hospitals-as-health-nannies-prescriptions-for-fruits-and-other-unusual-ways-to-keep-the-doctor-away/
 ">A Prescription for Fruit and Veggies</a></h4><p>Hospital docs are finding new ways to address obesity</p></div></div><div class="content-block"><a href="http://newsfeed.time.com/2013/07/26/how-coffee-could-save-your-life/"><img src="http://img.timeinc.net/time/daily/2013/1305/66_nf_coffee_0531.jpg" /></a><div class="headline"><h4><a href="http://newsfeed.time.com/2013/07/26/how-coffee-could-save-your-life/">Coffee Could Save Your Life</a></h4><p>New study shows it could decrease suicide risk</p></div></div></div>
 
@@ -729,8 +742,8 @@ type: "-1"
 			<h3 class="section-title"><a href="http://life.time.com/">LIFE.com</a></h3>
 			<ul class="top-stories">
 			<li class="lead story"><a href="http://life.time.com/icons/woody-allen-rare-and-classic-photos-of-the-filmmaker-at-home-in-1967/">Woody Allen: Portraits of the Neurotic as a Young Man</a></li>
-<li class="story"><a href="http://life.time.com/history/hitler-and-mussolini-in-1938-color-photos-of-europes-warmongers/">Hitler and Mussolini: Color Photos of Chummy Warmongers, 1938</a></li>
 <li class="story"><a href="http://life.time.com/history/w-eugene-smith-life-magazine-1951-photo-essay-nurse-midwife/">W. Eugene Smith&#8217;s Landmark Photo Essay, &#8216;Nurse Midwife&#8217;</a></li>
+<li class="story"><a href="http://life.time.com/history/apollo-11-to-the-moon-and-back-life-covers-the-1969-lunar-landing/">&#8216;To the Moon and Back&#8217;: LIFE Covers the Apollo 11 Mission</a></li>
 
 			</ul>
 			</section><!--/.module.life-->							
@@ -749,14 +762,14 @@ type: "-1"
 
 <section class="module widget_time_featured_content">
 						
-						<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 09:35:02 2013 <![endif]-->
+						<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 11:50:10 2013 <![endif]-->
 <h3 class="section-title">Latest Headlines</h3>
 <div class="headlines">
 <ul>
-<li><a href="http://nation.time.com/2013/07/27/bride-to-be-best-man-missing-after-ny-boat-crash/">1 Body Found, 1 Person Missing in NY Boat Crash
-</a></li><li><a href="http://world.time.com/2013/07/28/cambodian-opposition-claims-election-victory/">Cambodian Opposition Claims Election Victory</a></li><li><a href="http://nation.time.com/2013/07/27/3-dead-in-indianapolis-bus-crash/">Investigators Probe Ind. Bus Crash That Killed 3
-</a></li><li><a href="http://world.time.com/2013/07/27/pope-draws-3m-for-vigil-after-chastising-exodus/">Pope Draws 3M for Vigil After Chastising 'Exodus'</a></li><li><a href="http://swampland.time.com/2013/07/27/teresa-heinz-kerry-leaves-boston-rehab-hospital/">Teresa Heinz Kerry Leaves Boston Rehab Hospital</a></li><li><a href="http://entertainment.time.com/2013/07/27/musician-jj-cale-dies-wrote-clapton-skynyrd-hits">Musician JJ Cale Dies; Wrote Clapton, Skynyrd Hits</a></li><li><a href="http://world.time.com/2013/07/27/more-than-1000-inmates-escape-libyan-prison/">More Than 1,000 Inmates Escape Libyan Prison</a></li><li><a href="http://world.time.com/2013/07/27/spain-train-driver-suspected-of-negligent-homicide/">Spain Train Driver Released From Hospital
-</a></li><li><a href="http://swampland.time.com/2013/07/27/former-rep-lindy-boggs-of-louisiana-dies-at-97/">Former Rep. Lindy Boggs of Louisiana Dies at 97</a></li><li><a href="http://www.cnn.com/2013/07/27/us/north-carolina-flooding/index.html?hpt=hp_t2"><span class="icon video"></span>CNN: Flooding in NC Prompts Rescues</a></li></ul>
+<li><a href="http://nation.time.com/2013/07/27/3-dead-in-indianapolis-bus-crash/">Youth Pastor, Wife, Chaperone Died in Ind. Bus Crash
+</a></li><li><a href="http://nation.time.com/2013/07/27/bride-to-be-best-man-missing-after-ny-boat-crash/">1 Body Found, 1 Person Missing in NY Boat Crash
+</a></li><li><a href="http://world.time.com/2013/07/28/cambodia-ruling-party-denies-opposition-win-claim/">Cambodia Ruling Party Denies Opposition Win Claim</a></li><li><a href="http://world.time.com/2013/07/27/pope-draws-3m-for-vigil-after-chastising-exodus/">Pope Wraps Up Historic Trip With Copacabana Mass</a></li><li><a href="http://newsfeed.time.com/2013/07/28/police-53-million-in-jewels-stolen-in-cannes/">Police: $53 Million in Jewels Stolen in Cannes</a></li><li><a href="http://swampland.time.com/2013/07/27/teresa-heinz-kerry-leaves-boston-rehab-hospital/">Teresa Heinz Kerry Leaves Boston Rehab Hospital</a></li><li><a href="http://entertainment.time.com/2013/07/27/musician-jj-cale-dies-wrote-clapton-skynyrd-hits">Musician JJ Cale Dies; Wrote Clapton, Skynyrd Hits</a></li><li><a href="http://world.time.com/2013/07/27/more-than-1000-inmates-escape-libyan-prison/">More Than 1,000 Inmates Escape Libyan Prison</a></li><li><a href="http://world.time.com/2013/07/27/spain-train-driver-suspected-of-negligent-homicide/">Spain Train Driver Released From Hospital
+</a></li><li><a href="http://www.cnn.com/2013/07/27/us/north-carolina-flooding/index.html?hpt=hp_t2"><span class="icon video"></span>CNN: Flooding in NC Prompts Rescues</a></li></ul>
 </div>
  
 						</section>
@@ -828,7 +841,7 @@ type: "-1"
 <li><a href="http://www.time.com/time/archive">Online Issue Archive</a></li>
 </ul>
 						</section><!--/.module.the-magazine-->
-						<!--[if IE 5]> Vignette StoryServer 5.0 Sun Oct 21 16:12:17 2012 <![endif]-->
+						<!--[if IE 5]> Vignette StoryServer 5.0 Sun Oct 21 16:17:31 2012 <![endif]-->
 <section class="module popular-content tabgroup mobile-right">
 
 <div class="ad">
@@ -851,26 +864,26 @@ position: 9
 <div class="tabgroup-panel most-read">
 <h3 class="section-title">Most Read</h3>
 <ol class="most-read-content">
-<!-- Sun Jul 28 09:15:11 EDT 2013 -->
+<!-- Sun Jul 28 12:15:12 EDT 2013 -->
 <li><a href="http://business.time.com/2011/06/06/homeowner-forecloses-on-bank-of-america-yes-you-heard-that-right/">Homeowner Forecloses on Bank of America </a>
+</li>
+<li><a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">Rick Warren Preaches First Sermon Since His Son's Suicide </a>
 </li>
 <li><a href="http://healthland.time.com/2013/07/26/how-height-is-connected-to-cancer/">How Height Is Connected to Cancer</a>
 </li>
-<li><a href="http://world.time.com/2013/07/27/sixty-years-after-the-korean-war-the-cold-wars-unending-conflict-continues/">Sixty Years After the Korean War, the Cold War's Unending Conflict Continues</a>
-</li>
 <li><a href="http://techland.time.com/2013/07/26/are-we-really-that-crazy-about-the-remote-control/">Are We Really That Crazy About the Remote Control?</a>
-</li>
-<li><a href="http://entertainment.time.com/2013/06/27/the-25-best-songs-of-2013-so-far-2/">The 25 Best Songs of 2013 (So Far)</a>
-</li>
-<li><a href="http://techland.time.com/2013/07/01/50-best-android-apps-for-2013/">50 Best Android Apps for 2013</a>
-</li>
-<li><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace/">Too Big to Cocktail? Judge Upholds Weight Discrimination in the Workplace</a>
-</li>
-<li><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/">What's Next for Egypt</a>
 </li>
 <li><a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">What It Means to Be 'Wealthy' in America Today</a>
 </li>
-<li><a href="http://business.time.com/2013/07/11/when-retailer-asks-can-i-have-your-zip-code-just-say-no/">When a Retailer Asks, 'Can I Have Your ZIP Code?' Just Say No</a>
+<li><a href="http://entertainment.time.com/2013/06/27/the-25-best-songs-of-2013-so-far-2/">The 25 Best Songs of 2013 (So Far)</a>
+</li>
+<li><a href="http://world.time.com/2013/07/27/sixty-years-after-the-korean-war-the-cold-wars-unending-conflict-continues/">Sixty Years After the Korean War, the Cold War's Unending Conflict Continues</a>
+</li>
+<li><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace/">Too Big to Cocktail? Judge Upholds Weight Discrimination in the Workplace</a>
+</li>
+<li><a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">The Bodies in the Bogs: An Eerie Gift from the Iron Age</a>
+</li>
+<li><a href="http://techland.time.com/2013/07/01/50-best-android-apps-for-2013/">50 Best Android Apps for 2013</a>
 </li>
 
 </ol>
@@ -878,26 +891,26 @@ position: 9
 <div class="tabgroup-panel most-emailed">
 <h3 class="section-title">Most Emailed</h3>
 <ol class="most-emailed-content">
-<!-- Sun Jul 28 09:15:12 EDT 2013 -->
+<!-- Sun Jul 28 12:15:11 EDT 2013 -->
 <li><a href="http://newsfeed.time.com/2013/07/26/how-coffee-could-save-your-life/">How Coffee Could Save Your Life</a>
 </li>
-<li><a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">The Bodies in the Bogs: An Eerie Gift from the Iron Age</a>
-</li>
-<li><a href="http://healthland.time.com/2012/10/01/guide-the-31-healthiest-foods-of-all-time-with-recipes/">Guide: The 31 Healthiest Foods of All Time (with Recipes)</a>
+<li><a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">Rick Warren Preaches First Sermon Since His Son's Suicide </a>
 </li>
 <li><a href="http://healthland.time.com/2013/07/23/why-you-should-eat-breakfast-and-the-best-times-for-the-rest-of-the-days-meals/">Why You Should Eat Breakfast And the Best Times for the Rest of the Day's Meals</a>
 </li>
+<li><a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">The Bodies in the Bogs: An Eerie Gift from the Iron Age</a>
+</li>
+<li><a href="http://healthland.time.com/2013/07/26/how-height-is-connected-to-cancer/">How Height Is Connected to Cancer</a>
+</li>
 <li><a href="http://newsfeed.time.com/2013/07/22/study-23-and-69-are-the-happiest-ages/">Study: 23 and 69 Are the Happiest Ages</a>
+</li>
+<li><a href="http://healthland.time.com/2012/10/01/guide-the-31-healthiest-foods-of-all-time-with-recipes/">Guide: The 31 Healthiest Foods of All Time (with Recipes)</a>
+</li>
+<li><a href="http://newsfeed.time.com/2013/05/31/caffeine-withdrawal-is-now-a-mental-disorder/">Caffeine Withdrawal Is Now a Mental Disorder</a>
 </li>
 <li><a href="http://www.time.com/time/magazine/article/0,9171,2145062,00.html">How China Sees The World</a>
 </li>
-<li><a href="http://world.time.com/2013/06/13/nicaraguas-chinese-canal-behind-the-audacious-40-billion-bid-to-build-a-rival-panama-canal/">Nicaragua's Chinese Canal: Behind the Audacious $40 Billion Bid to Build a Rival Panama Canal</a>
-</li>
-<li><a href="http://healthland.time.com/2013/07/24/using-movement-to-diagnose-and-treat-autism/">Using Movement to Diagnose and Treat Autism </a>
-</li>
-<li><a href="http://world.time.com/2013/07/17/in-hong-kong-a-once-prominent-parsi-community-faces-demise/">In Hong Kong, a Once Prominent Parsi Community Faces Demise</a>
-</li>
-<li><a href="http://www.time.com/time/magazine/article/0,9171,2148174,00.html">A Fool's Errand Worth Pursuing</a>
+<li><a href="http://business.time.com/2011/06/06/homeowner-forecloses-on-bank-of-america-yes-you-heard-that-right/">Homeowner Forecloses on Bank of America </a>
 </li>
 
 </ol>
@@ -927,7 +940,7 @@ position: 9
 
 
 <section class="module time-newsletters mobile-left">
-<!--[if IE 5]> Vignette StoryServer 5.0 Mon Oct 22 12:24:50 2012 <![endif]-->
+<!--[if IE 5]> Vignette StoryServer 5.0 Mon Oct 22 12:24:48 2012 <![endif]-->
 <h3 class="section-title"><a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_home_widget" target="_blank">TIME Newsletters</a><a class="subtext" href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_home_widget" target="_blank">See all Newsletters</a></h3>
 <div class="media">
 <a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_home_widget" target="_blank"><img src="http://img.timeinc.net/time/assets/images/module-time-newsletters.jpg" alt="Newsletter" /></a>
@@ -1012,7 +1025,7 @@ position: 9
 </div><!--/.contributors-->
 
 </section><!--/.module.time-voices-->
-<!--[if IE 5]> Vignette StoryServer 5.0 Mon Oct 22 00:21:21 2012 <![endif]-->
+<!--[if IE 5]> Vignette StoryServer 5.0 Mon Oct 22 00:21:30 2012 <![endif]-->
 <div class="google-ad module sponsored-links mobile-left">
 
 	<script language="JavaScript">
