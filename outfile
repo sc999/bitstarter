@@ -1,0 +1,1224 @@
+<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 06:05:38 2013 <![endif]-->
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en-us" class="no-js ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html lang="en-us" class="no-js ie lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html lang="en-us" class="no-js ie lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-us" class="no-js"> <!--<![endif]-->
+<head>
+	<title>Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com</title>
+	<link rel="shortcut icon" href="http://img.timeinc.net/time/favicon.ico" />
+	<link rel="canonical" href="http://www.time.com/time/" />
+	<meta http-equiv="refresh" content="1200" />
+	<meta charset="utf-8">
+	<meta name="description" content="Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news. Archive of TIME magazine since 1923." />
+	<meta name="keywords" content="TIME.com, Daily News, ,,,," />
+	<meta name="verify-v1" content="Wj+aWkJe3nKllHuGJutD0L5Tk2aDdQcLI15gunF9slM=" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta property="fb:admins" content="1124331582,512158401,808970553" />
+	<meta property="fb:app_id" content="53177223193" />
+	<meta property="fb:page_id" content="10606591490" />
+	<meta property="og:site_name" content="TIME.com" />
+	<meta property="og:title" content="Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.time.com/time/" />
+	<!--[if lt IE 9]><link rel="stylesheet" href="/time/assets/css/main.min.css" media="all" /><![endif]-->
+	<!--[if gt IE 8]><!--><link rel="stylesheet" href="http://img.timeinc.net/time/assets/css/main.min.css" media="all" /><!--<![endif]-->
+	<link rel="stylesheet" href="http://img.timeinc.net/time/assets/css/homepage-video-smart.min.css" media="all" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://rss.time.com/web/time/rss/top/index.xml" />
+	<script src="http://img.timeinc.net/time/assets/js/libs/modernizr.min.js"></script>
+	<script src="http://img.timeinc.net/time/assets/js/libs/respondjs/respond.min.js"></script>
+	<script src="http://img.timeinc.net/time/assets/js/json2.min.js"></script>
+	<script src="http://img.timeinc.net/time/assets/js/user_agent.min.js"></script>
+	<script src="http://tiads.time.com/ads/tgx.js"></script>
+	<script src="http://cdn.optimizely.com/js/230919112.js"></script>
+	<script type="text/javascript" src="http://fonts.timeinc.net/epq2dmc.js"></script>
+	<script type="text/javascript">
+try{Typekit.load();}catch(e){}
+var adConfig, adFactory;
+adConfig = new TiiAdConfig( ( ad_mode == 'tablet' ) ? '3475.tim_tablet' : '3475.tim' ); 
+adConfig.setCmSitename("cm.tim");
+adConfig.setRevSciTracking(true);
+</script>
+	<link rel="publisher" href="https://plus.google.com/110038350445855508357"  />
+	<link rel="apple-touch-icon" href="http://img.timeinc.net/time/assets/images/timecom_ico_128x128.png" />
+	<script type="text/javascript">
+var adFactory = new TiiAdFactory(adConfig, "homepage");
+adFactory.setChannel("home");
+adFactory.setSubchannel("");
+adFactory.setChannelPage();
+
+	</script>
+	<script type="text/javascript" src="http://img.timeinc.net/time/assets/js/responsive-ads.min.js"></script>
+	<script type="text/javascript" src="http://img.timeinc.net/time/assets/js/frequency_capping.min.js"></script>
+</head>
+
+<body class="home home-page">
+
+<div id="omniture" style="display:none">
+<script type="text/javascript">
+var s_account="timecom";
+</script>
+	<script type="text/javascript" src="http://img.timeinc.net/tii/omniture/h/config/time_s_code.js"></script>
+<script type="text/javascript">
+
+s_time.channel = 'time';
+s_time.pageName = 'time|home|main';
+s_time.prop7 = 'section front';
+s_time.prop16 = 'home';
+
+s_time.prop17 = location.href;
+
+
+if (typeof(catsCSV) == "string") s_time.prop13 = catsCSV;
+if (typeof(omnitureHookFunction) == "function") eval("omnitureHookFunction();");
+var s_code=s_time.t();if(s_code)document.write(s_code)
+</script>
+</div>
+<script data-main="http://img.timeinc.net/time/assets/js/main" src="http://img.timeinc.net/time/assets/js/libs/require-jquery.min.js"></script>
+<!-- start umma content  -->
+<script>
+$(document).ready(function() {
+	$(".umma").appendAround();
+});
+</script>
+
+<!-- end umma content  -->
+
+	
+<!-- ==== SITE HEADER ==== -->
+<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 06:05:40 2013 <![endif]-->
+
+<header id="site-header">
+<!-- Constraint kept separate from header so header can be
+fixed above the page and still position correctly -->
+<div class="constrain">
+<a href="#wrapper" class="hidden-accessible">Skip to Content</a>
+
+
+<h1 id="logo"><a href="http://www.time.com/time">TIME</a></h1>
+<nav id="site-nav">
+<h3>Sections <span class="icon icon-arrow">&rarr;</span></h3>
+<ul class="primary-links">
+<li class="link-1 current"><a title="" href="http://www.time.com/time/">Home</a></li><li class="link-2 "><a title="NewsFeed" href="http://newsfeed.time.com/">NewsFeed</a></li><li class="link-3 "><a title="U.S. News  - Headlines, Stories and Video from around nation - TIME.com" href="http://nation.time.com/">U.S.</a></li><li class="link-4 "><a title="Political insight from the Beltway and beyond" href="http://swampland.time.com/">Politics</a></li><li class="link-5 "><a title="World News, International Headlines, Stories, Slideshows and Video - TIME.com" href="http://world.time.com/">World</a></li><li class="link-6 "><a title="Business and Technology News - TIME.com" href="http://business.time.com/">Business</a></li><li class="link-7 "><a title="" href="http://techland.time.com/">Tech</a></li><li class="link-8 "><a title="Health,  Science, Medicine, Fitness News - TIME.com" href="http://healthland.time.com/">Health</a></li><li class="link-9 "><a title="" href="http://science.time.com/">Science</a></li><li class="link-10 "><a title="Reviews, Music, Books Arts, Entertainment News -TIME.com" href="http://entertainment.time.com/">Entertainment</a></li><li class="link-11 "><a title="" href="http://style.time.com/">Style</a></li><li class="link-12 "><a title="" href="http://ideas.time.com/">Opinion</a></li><li class="link-13 "><a title="" href="http://lightbox.time.com/">Photos</a></li><li class="link-14 "><a title="" href="http://www.time.com/time/magazine">Magazine</a></li><li class="link-15 "><a title="" href="http://www.time.com/time/video/">Video</a></li><li class="link-16 "><a title="" href="http://life.time.com/">LIFE.com</a></li><li class="link-17 "><a title="" href="http://www.time.com/time/specials">Lists</a></li><li class="link-18 "><a title="" href="http://keepingscore.blogs.time.com/">Sports</a></li></ul>
+
+</nav>
+
+<div id="site-search">
+<span class="search-link">
+<a href="http://search.time.com/results.html">Search</a>
+</span>
+<div class="search-menu">
+<form id="frmSearchArticle" method="get" action="http://search.time.com/results.html" onsubmit="omniSearch(this.Ntt.value);" autocomplete="off">
+<div class="fieldgroup overlay-label in-field-label">
+<label for="header-search" style="opacity: 1;">Search TIME</label>
+<input type="text" id="header-search" value="" name="Ntt"/>
+<input type="hidden" name="N" value="0" />
+<input type="hidden" name="Nty" value="1" />
+<input type="hidden" name="p" value="0" />
+<input type="hidden" name="cmd" value="tags" />
+</div>
+<input type="image" value="Go" src="http://img.timeinc.net/time/assets/images/search-button.png" />
+</form>
+</div>
+
+
+
+<div class="ad ad-88x31">
+<script>
+responsiveAd({
+ads: [
+{
+// Desktop 468
+type: "desktop",
+min: 468,
+size: "88x31",
+position: 1
+
+}
+]
+});
+</script>
+</div>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--></div>
+
+
+
+<script type="text/javascript">
+responsiveAd({
+className: "ad header-ad",
+ads: [
+{
+type: "desktop",
+min: 480, 
+size: "275x55",
+cm: {
+    position: "homepage",
+    type: "tout"
+}
+},
+{
+type: "tablet",
+min: 480, 
+size: "275x55",
+cm: {
+    position: "homepage",
+    type: "tout"
+}
+}
+]
+});
+</script>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--><ul id="social-apps">
+<li class="social-links">
+<a href="#">Follow</a>
+<ul>
+<li class="facebook"><a href="http://www.facebook.com/time" target="_blank">Facebook</a></li>
+<li class="twitter"><a href="http://twitter.com/time" target="_blank">Twitter</a></li>
+<li class="googleplus"><a href="https://plus.google.com/110038350445855508357/posts" target="_blank">Google+</a></li>
+<li class="tumblr"><a href="http://timemagazine.tumblr.com/" target="_blank">Tumblr</a></li>
+<li class="rss"><a href="http://www.time.com/time/rss">RSS</a></li>
+</ul>
+</li>
+<li><a href="http://www.time.com/time/mobile-apps/" target="_blank">Apps</a></li>
+</ul>
+</div>
+
+</header>
+<!-- ==== SUB HEADLINE ==== -->
+<div id="subheadline" class="constrain">
+
+<nav id="sub-nav">
+
+<ul class="secondary-links">
+
+					  <li><a title="" href="http://www.time.com/time/magazine" >Magazine</a></li> 
+					
+				
+					  <li><a title="" href="http://www.time.com/time/video" >Video</a></li> 
+					
+				
+					  <li><a title="" href="http://life.time.com" >LIFE</a></li> 
+					
+				
+					  <li><a title="" href="http://world.time.com/timelapse/" >Earth From Space</a></li> 
+					
+				</ul>
+
+</nav>
+
+	<div class="current-est">
+		Sunday, July 28, 2013 </div>
+ </div>
+
+
+<!-- ==== /SUB HEADLINE ==== -->
+<!-- ==== / SITE HEADER ==== -->
+
+<!-- ==== /SUB HEADLINE ==== -->
+
+<script>
+responsiveAd({
+
+ads: [
+{
+// Desktop
+type: "desktop",
+min: 770,
+size: [ "970x1", "101x1"]
+},
+
+
+{
+// Tablet
+type: "tablet",
+min: 770,
+size: [ "970x1", "101x1"]
+}
+
+]
+});
+</script>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--><div class="constrain home-primary-ad mobile-version">
+
+<script>
+responsiveAd({
+
+ads: [
+
+
+{
+// Mobile 300
+type: "mobile",
+min: 320,
+size: "300x50",
+config: {
+zone: "124157",
+site: "28275",
+min_size_x: "300",
+min_size_y: "50",
+size_x: "320", 
+size_y: "50",
+type: "-1"
+}
+}
+
+]
+});
+</script>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--></div>
+<!-- ==== CONTENT BODY ==== -->
+
+<div id="content-body" class="constrain">
+
+<div class="primary-col">
+
+<!-- ==== LEAD CONTENT (default) ==== -->
+<section class="lead-content article-ver">
+<div class="primary-lead-area">
+<div class="lead-content-module">
+	
+		
+		
+		<figure class="entry-thumb entry-thumb-m">
+<a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">
+  <img src="http://img.timeinc.net/time/daily/2013/1307/485_ids_wealth_0727.jpg" alt="" title="">
+</a>
+<figcaption><small class="entry-thumb-credit">Getty Images</small></figcaption> </figure>
+
+
+			
+		<header>
+		<h1><a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">What It Means to Be Wealthy in America Today</a></h1>
+		<span class="byline">By Brad Tuttle</span>
+		</header>
+		
+				<p>A new survey shows that America's rich don't actually consider themselves rich. Which begs the question: what does <i>wealthy</i> even mean?</p>
+				
+			
+		<ul class="list">
+		
+		</ul>
+		
+		
+		</div>
+<div class="under-lede-a" data-set="move-markup-a"></div>
+
+
+<!-- ==== / LEAD CONTENT (default) ==== -->
+<div class="lead-belt-area">
+<ul>
+
+			
+			
+					<li>
+						
+						<a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">
+						<div data-responsive>
+						    <!-- {"title":"Tollund man, victim of human sacrifice by ritual strangulation.","alt":"Tollund man, victim of human sacrifice by ritual strangulation.","sources":{"s":"http://img.timeinc.net/time/daily/2013/1307/232_sci_bog_0727.jpg","l":"http://img.timeinc.net/time/daily/2013/1307/360_sci_bog_0727.jpg"},"breakpoints":{"0":"l 1x","390":"s 1x"}} -->
+							<noscript><img src="http://img.timeinc.net/time/daily/2013/1307/232_sci_bog_0727.jpg" alt="Tollund man, victim of human sacrifice by ritual strangulation."></noscript>
+						</div>
+						</a>
+						<h3><a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">The Bog People: An Eerie Gift from the Iron Age
+</a></h3>
+					</li>
+		
+		
+			
+			
+					<li>
+						
+						<a href="http://techland.time.com/2013/07/26/are-we-really-that-crazy-about-the-remote-control/
+">
+						<div data-responsive>
+						    <!-- {"title":"The new Google Chromecast dongle is pictured on an electronic screen as it is announced during a Google event at Dogpatch Studio in San Francisco, July 24, 2013.","alt":"The new Google Chromecast dongle is pictured on an electronic screen as it is announced during a Google event at Dogpatch Studio in San Francisco, July 24, 2013.","sources":{"s":"http://img.timeinc.net/time/daily/2013/1307/232_tch_chrome_0724.jpg","l":"http://img.timeinc.net/time/daily/2013/1307/360_tch_chrome_0724.jpg"},"breakpoints":{"0":"l 1x","390":"s 1x"}} -->
+							<noscript><img src="http://img.timeinc.net/time/daily/2013/1307/232_tch_chrome_0724.jpg" alt="The new Google Chromecast dongle is pictured on an electronic screen as it is announced during a Google event at Dogpatch Studio in San Francisco, July 24, 2013."></noscript>
+						</div>
+						</a>
+						<h3><a href="http://techland.time.com/2013/07/26/are-we-really-that-crazy-about-the-remote-control/
+">Chromecast and the End of the Remote Control</a></h3>
+					</li>
+		
+		</ul>
+</div>
+
+<div class="ad alternate-primary-ad mobile-version" style="width: 320px;">
+<div class="module ad-primary" data-set="sidebar-ad"></div>
+</div>
+<div class="under-lede-b" data-set="move-markup-b"></div>
+
+<section class="featured-photography module">
+
+<!--[if IE 5]> Vignette StoryServer 5.0 Sat Jul 27 15:23:13 2013 <![endif]-->
+<h3 class="section-title"><a href="http://www.time.com/time/photoessays">Photography</a></h3>
+				
+				
+								<header class="primary-photo">	
+								<a href="http://lightbox.time.com/2013/07/26/pictures-of-the-week-july-19-july-26/
+">
+									<img src="http://img.timeinc.net/time/daily/2013/1307/485_lb_potw_0728.jpg" alt="June 22, 2013. Palestinian laborers from the West Bank illegally cross Israel&#39;s controversial barrier in the southern West Bank." title="June 22, 2013. Palestinian laborers from the West Bank illegally cross Israel&#39;s controversial barrier in the southern West Bank." />
+								</a>
+								<small class="entry-thumb-credit">Ammar Awad / Reuters</small>
+								<h2><a href="http://lightbox.time.com/2013/07/26/pictures-of-the-week-july-19-july-26/
+">The Week in News, Through the Photographer's Lens</a></h2>
+								<p class="subhead">From the birth of the royal baby to the Pope's visit to Brazil and silhouettes captured across the world, TIME presents the best pictures of the week</p>
+								</header>
+							
+							
+				
+							
+				
+			<div class="secondary-photos">
+				
+				
+			  				
+				
+								<div class="photo">
+								<a href="http://world.time.com/2013/07/26/north-koreas-totalitarian-tableau-scenes-from-the-mass-games/">
+								<img src="http://img.timeinc.net/time/daily/2013/1307/232_int_nkorea_0726.jpg" alt="North Korean students use different colored cardboard to form a picture of a child in uniform as a background during a mass gymnastic and artistic performance &quot;Arirang&quot;, in Pyongyang July 26, 2013." title="North Korean students use different colored cardboard to form a picture of a child in uniform as a background during a mass gymnastic and artistic performance &quot;Arirang&quot;, in Pyongyang July 26, 2013." />
+								<h2>North Korea's Totalitarian Tableau: Scenes From the Mass Games
+</h2>
+								</a>
+								</div>
+								
+								
+			  				
+				
+								<div class="photo">
+								<a href="http://life.time.com/history/photos-of-americas-womens-army-auxiliary-corps-1942/#1">
+								<img src="http://img.timeinc.net/time/daily/2013/1307/232_life_WAACs_0727.jpg" alt="Mary Yates, 26, WAACs, 1942." title="Mary Yates, 26, WAACs, 1942." />
+								<h2>Take off the Silk, Put on the Khaki': America's First Women Soldiers, 1942</h2>
+								</a>
+								</div>
+								
+								
+			  </div><!--/.secondary-photos-->		    
+</section><!--/.featured-photography-->
+</div>
+
+<div class="secondary-lead-area" data-set="move-markup-a">
+
+			
+		<div class="dont-miss-leader umma" data-set="move-markup-a">
+		<div class="thumb">
+									<a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">
+									
+									
+									<div data-responsive>
+									    <!-- {"title":"Evangelical pastor Rick Warren speaks at the Islamic Society of North America&#39;s 46th annual convention Saturday, July 4, 2009, in Washington.","alt":"Evangelical pastor Rick Warren speaks at the Islamic Society of North America&#39;s 46th annual convention Saturday, July 4, 2009, in Washington.","sources":{"s":"http://img.timeinc.net/time/daily/2013/1307/232_pol_rickwarren_0727.jpg","l":"http://img.timeinc.net/time/daily/2013/1307/360_pol_rickwarren_0727.jpg"},"breakpoints":{"0":"l 1x","390":"s 1x","670":"l 1x","940":"s 1x"}} -->
+										<noscript><img src="http://img.timeinc.net/time/daily/2013/1307/232_pol_rickwarren_0727.jpg" alt="Evangelical pastor Rick Warren speaks at the Islamic Society of North America&#39;s 46th annual convention Saturday, July 4, 2009, in Washington."></noscript>
+									</div>
+									</a>
+									</div>
+		<h2><a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">Rick Warren Preaches First Sermon Since Son's Suicide</a></h2>
+		<p>Four months after their son committed suicide, Rick Warren and his wife Kay promised to remove the stigma of mental illness from the church</p>
+		<ul class="related-stories" style="padding-left: 20px">
+		
+		</ul>
+		</div>
+		</div>
+ <div class="secondary-lead-area" data-set="move-markup-b">
+			<div class="dont-miss umma" data-set="move-markup-b">
+				<div class="seperator"></div>
+				
+				<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 06:05:35 2013 <![endif]-->
+<div class="listing">
+<div class="content-block"><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_int_egypt1_0727.jpg" /></a><div class="headline"><h4><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/">Violent Day Widens Egypt's Divide</a></h4><p>More than 65 killed amid clashes in Cairo</p></div></div><div class="content-block"><a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/"><img src="http://img.timeinc.net/time/daily/2013/1306/66_pol_christie_0604.jpg" /></a><div class="headline"><h4><a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/">The GOP Foreign Policy War is Finally Here</a></h4><p>Christie calls libertarianism a 'very dangerous thought'</p></div></div><div class="content-block"><a href="http://swampland.time.com/2013/07/27/states-seek-a-way-to-pass-on-digital-accounts-after-you-die/
+"><img src="http://img.timeinc.net/time/daily/2013/1307/66_pol_data_0727.jpg" /></a><div class="headline"><h4><a href="http://swampland.time.com/2013/07/27/states-seek-a-way-to-pass-on-digital-accounts-after-you-die/
+">States Seek Ways to Pass On Digital Assets</a></h4><p>What happens to our digital life when we die?</p></div></div><div class="content-block"><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace"><img src="http://img.timeinc.net/time/daily/2013/1306/66_id_obesity_0619.jpg" /></a><div class="headline"><h4><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace">You Can Be Fired for Being Fat</a></h4><p>NJ judge upholds workplace weight discrimination</p></div></div><div class="content-block"><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_pol_holder_0727.jpg" /></a><div class="headline"><h4><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/">Holder Takes Fight for Voting Rights to Texas
+</a></h4><p>Administration seeks ways to continue pre-clearance</p></div></div><div class="content-block"><a href="http://science.time.com/2013/07/25/how-the-moon-messes-with-your-sleep/"><img src="http://img.timeinc.net/time/daily/2013/1307/66_sci_moon_0725.jpg" /></a><div class="headline"><h4><a href="http://science.time.com/2013/07/25/how-the-moon-messes-with-your-sleep/">Bad Sleep? Blame the Moon</a></h4><p>Lunar cycles affect our slumber</p></div></div><div class="content-block"><a href="http://healthland.time.com/2013/07/26/hospitals-as-health-nannies-prescriptions-for-fruits-and-other-unusual-ways-to-keep-the-doctor-away/
+"><img src="http://img.timeinc.net/time/daily/2013/1302/66_hlt_hospitals_0726.jpg" /></a><div class="headline"><h4><a href="http://healthland.time.com/2013/07/26/hospitals-as-health-nannies-prescriptions-for-fruits-and-other-unusual-ways-to-keep-the-doctor-away/
+">A Prescription for Fruit and Veggies</a></h4><p>Hospital docs are finding new ways to address obesity</p></div></div><div class="content-block"><a href="http://newsfeed.time.com/2013/07/26/how-coffee-could-save-your-life/"><img src="http://img.timeinc.net/time/daily/2013/1305/66_nf_coffee_0531.jpg" /></a><div class="headline"><h4><a href="http://newsfeed.time.com/2013/07/26/how-coffee-could-save-your-life/">Coffee Could Save Your Life</a></h4><p>New study shows it could decrease suicide risk</p></div></div></div>
+
+  </div>
+		</div>
+</section>
+
+<div class="featured-content group">
+<div class="module ad-primary" data-set="sidebar-ad"></div>
+<div class="module-area" data-set="sidebar-widget"></div>
+</div>
+<div class="below-lead">
+
+
+
+
+<script type="text/javascript">
+responsiveAd({
+className: "ad full",
+divWidth: "ads",
+ads: [
+{
+type: "desktop",
+min: 480, 
+size: "737x60",
+cm: {
+    position: "homepage",
+    type: "tout"
+}
+},
+
+{
+type: "tablet",
+min: 480, 
+size: "737x60",
+cm: {
+    position: "homepage",
+    type: "tout"
+}
+},
+
+{
+// Mobile 300
+type: "mobile",
+min: 320,
+size: "480x60",
+config: {
+zone: "124159",
+site: "28275",
+min_size_x: "480",
+min_size_y: "60",
+size_x: "480", 
+size_y: "60",
+type: "-1"
+}
+}
+
+]
+});
+</script>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--><div class="group modules">
+
+<!--[if IE 5]> Vignette StoryServer 5.0 Thu Jul 25 07:11:57 2013 <![endif]-->
+				
+			  
+			<section class="module politics l-full-reset l-narrow-reset mod-1">
+			<h3 class="section-title"><a href="http://swampland.time.com/">Politics </a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://swampland.time.com/2013/07/28/rick-warren-preaches-first-sermon-since-his-sons-suicide/">Rick Warren Preaches First Sermon Since His Son&#8217;s Suicide</a></li>
+<li class="story"><a href="http://swampland.time.com/2013/07/27/gop-goes-public-with-long-brewing-foreign-policy-civil-war/">GOP Goes Public With Long-Brewing Foreign Policy Civil War</a></li>
+<li class="story"><a href="http://swampland.time.com/2013/07/27/states-seek-a-way-to-pass-on-digital-accounts-after-you-die/">States Seek A Way To Pass On Digital Accounts After You Die</a></li>
+
+			</ul>
+			</section><!--/.module.politics-->					
+							
+			  
+			<section class="module world  mod-2">
+			<h3 class="section-title"><a href="http://world.time.com/">World </a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/">What&#8217;s Next for Egypt</a></li>
+<li class="story"><a href="http://world.time.com/2013/07/27/sixty-years-after-the-korean-war-the-cold-wars-unending-conflict-continues/">Sixty Years After the Korean War, the Cold War&#8217;s Unending Conflict Continues</a></li>
+<li class="story"><a href="http://world.time.com/2013/07/27/zaatari-at-one-year-on-sidelines-of-war-refugees-struggle-for-a-better-life/">Za&#8217;atari at One Year: On Sidelines of War, Refugees Struggle for a Better Life</a></li>
+
+			</ul>
+			</section><!--/.module.world-->					
+							
+			  
+			<section class="module business l-narrow-reset mod-3">
+			<h3 class="section-title"><a href="http://business.time.com/">Business </a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://business.time.com/2013/07/26/new-presidents-council-to-focus-on-kids-and-money/">New President&#8217;s Council to Focus on Kids and Money</a></li>
+<li class="story"><a href="http://business.time.com/2013/07/26/stream-movies-for-free-with-a-library-card-but-dont-cancel-netflix-just-yet/">Stream Movies for Free &#8211; With a Library Card (But Don&#8217;t Cancel Netflix Just Yet)</a></li>
+<li class="story"><a href="http://business.time.com/2013/07/26/who-isnt-being-left-behind-during-the-economic-recovery/">Who <em>Isn&#8217;t</em> Being Left Behind During the Economic Recovery?</a></li>
+
+			</ul>
+			</section><!--/.module.business-->					
+							
+				
+			<section class="module health l-full-reset mod-4">
+			<h3 class="section-title"><a href="http://healthland.time.com/">Health</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://healthland.time.com/2013/07/26/hospitals-as-health-nannies-prescriptions-for-fruits-and-other-unusual-ways-to-keep-the-doctor-away/">Hospitals As Health Nannies: Prescriptions for Fruits and Other Unusual Ways to Keep the Doctor Away</a></li>
+<li class="story"><a href="http://healthland.time.com/2013/07/26/stop-and-frisk-stirs-up-rather-than-deters-youth-crime/">&#8216;Stop and Frisk&#8217; Stirs Up, Rather than Deters, Youth Crime</a></li>
+<li class="story"><a href="http://healthland.time.com/2013/07/26/how-height-is-connected-to-cancer/">How Height Is Connected to Cancer</a></li>
+
+			</ul>
+			</section><!--/.module.health-->						
+							
+				
+			<section class="module technology l-narrow-reset mod-5">
+			<h3 class="section-title"><a href="http://techland.time.com/">Tech</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://techland.time.com/2013/07/26/are-we-really-that-crazy-about-the-remote-control/">Are We Really That Crazy About the Remote Control?</a></li>
+<li class="story"><a href="http://techland.time.com/2013/07/26/sandisk-connect-pocketable-wireless-storage/">SanDisk Connect: Pocketable, Wireless Storage</a></li>
+<li class="story"><a href="http://techland.time.com/2013/07/26/the-best-real-estate-sites-to-help-you-with-your-house-hunt/">The Best Real Estate Sites to Help You with Your House Hunt</a></li>
+
+			</ul>
+			</section><!--/.module.technology-->						
+							
+				
+			<section class="module entertainment  mod-6">
+			<h3 class="section-title"><a href="http://entertainment.time.com/">Entertainment</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://entertainment.time.com/2013/07/26/todays-movie-trailer-cold-comes-the-night/">Today&#8217;s Movie Trailer: <i>Cold Comes the Night</i></a></li>
+<li class="story"><a href="http://entertainment.time.com/2013/07/26/turning-politics-to-art-wh-photog-launches-instagram-account/">Turning Politics to Art: WH Photog Launches Instagram Account</a></li>
+<li class="story"><a href="http://entertainment.time.com/2013/07/26/qa-robin-thicke-on-blurred-lines-the-vmas-and-working-with-his-dad/">Q&#38;A: Robin Thicke on <i>Blurred Lines</i>, the Video Music Awards and Working With Dad Alan Thicke</a></li>
+
+			</ul>
+			</section><!--/.module.entertainment-->						
+			
+<section class="module featured-video l-full-col-2 l-full-reset l-narrow-reset mod-7">
+<h3 class="section-title"><a href="http://www.time.com/time/video">Video</a></h3>
+<!-- BEGIN VIDEO SMART WIDGET HTML -->
+<div id="videoWidget" class="featured-video">
+	<object id="time1" class="BrightcoveExperience" > 
+	  <param name="bgcolor" value="#FFFFFF" /> 
+	  <param name="width" value="100%" /> 
+	  <param name="height" value="270" />
+	  <param name="playerID" value="1847503742001" />
+	  <param name="playerKey" value="AQ~,AAAAABGEUMg,hNlIXLTZFZldSS2f5sAh105KolpELUTS" />  
+	  <param name="wmode" value="transparent">
+	  <param name="isVid" value="true" /> 
+	  <param name="isUI" value="true" />
+	  <param name="dynamicStreaming" value="true" /> 
+	  <param name="@videoPlayer" value="">
+	  <param name="includeAPI" value="true" /> 
+	  <param name="autoStart" value="false" />
+	  <param name="templateLoadHandler" value="BCL.myTemplateLoaded" /> 
+	</object> 
+</div>
+<div class="social-box">
+	<div id="time1SocialContent">
+		<div class="embed-content">
+			<p><strong>Add to website or blog</strong></p>
+			<input type="text" value="no link" id="time1Link" />
+			<div class="send-button"><a target="_blank" id="time1Copy" href="">Copy Code</a></div>
+			<div class="cancel-button"><a id="time1CopyCancel" href="">Cancel</a></div>				
+		</div>
+		<div class="email-content">
+			<p><strong>Email to a friend</strong><p>
+			<input type="text" value="Friend's email" id="time1EmailTo" onfocus="this.value='';" />
+			<div class="send-button"><a target="_blank" id="time1Email" href="">Send</a></div>
+			<div class="cancel-button"><a id="time1EmailCancel" href="">Cancel</a></div>				
+		</div>
+		<div class="share-content">
+			<p><a target="_blank" href="" id="time1Facebook">Facebook</a></p>
+			<p><a target="_blank" href="" id="time1Twitter">Twitter</a></p>
+			<p><a target="_blank" href="" id="time1GooglePlus">Google+</a></p>
+		</div>
+	</div>
+
+	<ul id="time1Social">
+		<li class="embed">
+			Embed
+		</li>
+		<li class="email">
+			Email
+		</li>
+		<li class="share">
+			Share
+		</li>
+	</ul>	
+</div>
+<ul id="time1VideoSelect" class="videoSelect">
+        <li id="time1VideoSelected0" class="video0"></li>
+        <li id="time1VideoSelected1" class="video1"></li>
+        <li id="time1VideoSelected2" class="video2"></li>
+</ul>
+<ul id="time1Videos" class="top-stories more-video show3">
+	<div class="clear"></div>
+</ul>	
+<!-- END VIDEO SMART WIDGET HTML -->
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script> 
+</section><!--/.module.featured-video-->
+
+				
+				
+			<section class="module magazine mod-8">
+			<h3 class="section-title"><a href="/time/magazine">Magazine</a></h3>
+			<ul class="top-stories">
+			<!--[if IE 5]> Vignette StoryServer 5.0 Thu Jul 25 07:11:57 2013 <![endif]-->
+ <li class="lead story has-img"><a href="http://www.time.com/time/magazine/article/0,9171,2147724,00.html?pcd=hp"><img src="http://img.timeinc.net/time/daily/2013/1307/232_brpatterson_0729.jpg" alt="" /><span class="icon locked"></span>Anne Patterson's Burden</a></li><li class="story"><a href="http://www.time.com/time/magazine/article/0,9171,2147703,00.html?pcd=hp"><span class="icon locked"></span>10 Questions for Shaun White</a></li><li class="story"><a href="http://www.time.com/time/magazine/article/0,9171,2147702,00.html?pcd=hp"><span class="icon locked"></span>Rowling Thunder</a></li> 
+			</ul>
+			
+			
+				
+			<div class="ad-placeholder">
+			<a href="http://business.time.com/category/new-energy/"><img src="http://img.timeinc.net/time/daily/2013/1305/newenergy.jpg" alt="" /></a>
+			</div>
+			
+			
+			</section><!--/.module.magazine-->						
+							
+				<section class="module ideas l-full-reset l-narrow-reset mod-9">
+				<h3 class="section-title"><a href="http://ideas.time.com/">Ideas</a></h3>
+				<ul class="top-stories">
+				<li class="lead story"><a href="http://ideas.time.com/2013/07/25/what-we-can-learn-about-marriage-from-huma-abedin/">Why Breaking Up Is Harder Than You Think: The Plight Of Huma Abedin</a></li>
+<li class="story"><a href="http://ideas.time.com/2013/07/25/most-americans-dont-standwithwendy-after-all/">Most Americans Don&#8217;t #StandWithWendy After All</a></li>
+<li class="story"><a href="http://ideas.time.com/2013/07/24/the-latest-pawn-in-the-daddy-wars-prince-william/">The Latest Pawn in the Daddy Wars: Prince William</a></li>
+
+				</ul>
+				</section><!--/.module.ideas-->
+				
+								
+							
+				<section class="module newsfeed  mod-10">
+				<h3 class="section-title"><a href="http://newsfeed.time.com/">Newsfeed</a></h3>
+				<ul class="top-stories">
+				<li class="lead story"><a href="http://newsfeed.time.com/2013/07/28/introducing-the-twitter-hotel/">Introducing The Twitter Hotel</a></li>
+<li class="story"><a href="http://newsfeed.time.com/2013/07/27/meet-a-street-cat-named-bob/">Meet &#8220;A Street Cat Named Bob&#8221;</a></li>
+<li class="story"><a href="http://newsfeed.time.com/2013/07/26/late-night-laughs-the-5-best-comedy-clips-of-the-week-64/">Late Night Laughs: The 5 Best Comedy Clips of the Week</a></li>
+
+				</ul>
+				</section><!--/.module.newsfeed-->
+				
+								
+							
+				<section class="module us l-narrow-reset mod-11">
+				<h3 class="section-title"><a href="http://nation.time.com/">U.S.</a></h3>
+				<ul class="top-stories">
+				<li class="lead story"><a href="http://nation.time.com/2013/07/27/eric-holder-takes-the-fight-for-voting-rights-to-texas/">Eric Holder Takes the Fight for Voting Rights to Texas</a></li>
+<li class="story"><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace/">Too Big to Cocktail? Judge Upholds Weight Discrimination in the Workplace</a></li>
+<li class="story"><a href="http://nation.time.com/2013/07/26/with-parent-trigger-laws-on-the-ropes-three-overhauled-schools-reopen-in-los-angeles/">With &#8216;Parent Trigger&#8217; Laws on the Ropes, Three Overhauled Schools Reopen in Los Angeles</a></li>
+
+				</ul>
+				</section><!--/.module.us-->
+				
+								
+							
+				  
+			<section class="module style l-full-reset mod-12">
+			<h3 class="section-title"><a href="http://style.time.com/">Style &amp; Design</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://style.time.com/2013/07/26/nail-polish-sales-slow-after-years-of-growth/">Nail Polish Sales Slow After Years of Growth</a></li>
+<li class="story"><a href="http://style.time.com/2013/07/25/prince-georges-swaddling-blanket-sells-out-in-u-k/">Prince George&#8217;s Swaddling Blanket Sells Out in U.K.</a></li>
+<li class="story"><a href="http://style.time.com/2013/07/24/one-direction-to-launch-makeup-line/">One Direction to Launch Makeup Line</a></li>
+
+			</ul>
+			</section><!--/.module.style-->						
+							
+				
+			 
+			  
+			  
+			<section class="module time-100 red l-full-center-stack-2 l-narrow-reset mod-13">
+			<h3 class="section-title"><a href="http://world.time.com/timelapse/">Timelapse: Evolving Earth</a></h3>
+			<ul class="top-stories">
+			<li class="lead has-img">
+			<a href="http://world.time.com/timelapse/"><img src="http://img.timeinc.net/time/daily/2013/1305/232_timelapse_gif_dubai_0510.gif" alt="" />
+			<h2><span class="icon video"></span>Satellite Videos Reveal Decades of Changes</h2>
+			</a>
+			</li>
+			<li><span class="icon video"></span><a href="http://world.time.com/timelapse">Watch the World Change Over 30 Years</a></li><li><a href="http://world.time.com/timelapse/#chapter5">Urban Explosion Consumes Farmland and Desert</a></li><li><a href="http://world.time.com/timelapse/#chapter3">Extreme Resources, a Hefty Environmental Price Tag</a></li>
+			</ul>
+			</section><!--/.module.time-100-->					
+							
+				  
+			<section class="module sports mod-14">
+			<h3 class="section-title"><a href="http://keepingscore.blogs.time.com/">Sports</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://keepingscore.blogs.time.com/2013/07/26/hey-new-york-yankees-you-signed-a-rod-deal-with-it/">Hey, New York Yankees: You Signed A-Rod. Deal With It.</a></li>
+<li class="story"><a href="http://keepingscore.blogs.time.com/2013/07/25/dont-call-him-a-freak-colin-kaepernick-opens-up-on-quarterback-sociology-tattoos-adoption/">Don&#8217;t Call Him A Freak: Colin Kaepernick Opens Up On Quarterback Sociology, Tattoos, Adoption</a></li>
+<li class="story"><a href="http://keepingscore.blogs.time.com/2013/07/24/its-high-time-for-college-sports-hypocrisy/">NCAA Facing Legal Challenges Over Health and Compensation Policies</a></li>
+
+			</ul>
+			</section><!--/.module.sports-->						
+							
+				
+			<section class="module science l-full-reset l-narrow-reset mod-15">
+			<h3 class="section-title"><a href="http://science.time.com/">Science</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">The Bodies in the Bogs: An Eerie Gift from the Iron Age</a></li>
+<li class="story"><a href="http://science.time.com/2013/07/25/creating-false-memories-in-mice-brains-and-in-yours/">Creating False Memories in Mice Brains&#8212;and in Yours</a></li>
+<li class="story"><a href="http://science.time.com/2013/07/25/how-the-moon-messes-with-your-sleep/">How the Moon Messes With Your Sleep</a></li>
+
+			</ul>
+			</section><!--/.module.science-->							
+							
+				
+			<section class="module life  mod-16">
+			<h3 class="section-title"><a href="http://life.time.com/">LIFE.com</a></h3>
+			<ul class="top-stories">
+			<li class="lead story"><a href="http://life.time.com/icons/woody-allen-rare-and-classic-photos-of-the-filmmaker-at-home-in-1967/">Woody Allen: Portraits of the Neurotic as a Young Man</a></li>
+<li class="story"><a href="http://life.time.com/history/hitler-and-mussolini-in-1938-color-photos-of-europes-warmongers/">Hitler and Mussolini: Color Photos of Chummy Warmongers, 1938</a></li>
+<li class="story"><a href="http://life.time.com/history/w-eugene-smith-life-magazine-1951-photo-essay-nurse-midwife/">W. Eugene Smith&#8217;s Landmark Photo Essay, &#8216;Nurse Midwife&#8217;</a></li>
+
+			</ul>
+			</section><!--/.module.life-->							
+			</div><!--/.group.modules-->
+
+</div><!--/.below-lead-->
+
+</div><!--/.primary-col-->
+
+
+<aside class="right-col">
+
+<div class="featured-aside">
+<div data-set="sidebar-widget">
+<div class="moving-markup">
+
+<section class="module widget_time_featured_content">
+						
+						<!--[if IE 5]> Vignette StoryServer 5.0 Sun Jul 28 09:35:02 2013 <![endif]-->
+<h3 class="section-title">Latest Headlines</h3>
+<div class="headlines">
+<ul>
+<li><a href="http://nation.time.com/2013/07/27/bride-to-be-best-man-missing-after-ny-boat-crash/">1 Body Found, 1 Person Missing in NY Boat Crash
+</a></li><li><a href="http://world.time.com/2013/07/28/cambodian-opposition-claims-election-victory/">Cambodian Opposition Claims Election Victory</a></li><li><a href="http://nation.time.com/2013/07/27/3-dead-in-indianapolis-bus-crash/">Investigators Probe Ind. Bus Crash That Killed 3
+</a></li><li><a href="http://world.time.com/2013/07/27/pope-draws-3m-for-vigil-after-chastising-exodus/">Pope Draws 3M for Vigil After Chastising 'Exodus'</a></li><li><a href="http://swampland.time.com/2013/07/27/teresa-heinz-kerry-leaves-boston-rehab-hospital/">Teresa Heinz Kerry Leaves Boston Rehab Hospital</a></li><li><a href="http://entertainment.time.com/2013/07/27/musician-jj-cale-dies-wrote-clapton-skynyrd-hits">Musician JJ Cale Dies; Wrote Clapton, Skynyrd Hits</a></li><li><a href="http://world.time.com/2013/07/27/more-than-1000-inmates-escape-libyan-prison/">More Than 1,000 Inmates Escape Libyan Prison</a></li><li><a href="http://world.time.com/2013/07/27/spain-train-driver-suspected-of-negligent-homicide/">Spain Train Driver Released From Hospital
+</a></li><li><a href="http://swampland.time.com/2013/07/27/former-rep-lindy-boggs-of-louisiana-dies-at-97/">Former Rep. Lindy Boggs of Louisiana Dies at 97</a></li><li><a href="http://www.cnn.com/2013/07/27/us/north-carolina-flooding/index.html?hpt=hp_t2"><span class="icon video"></span>CNN: Flooding in NC Prompts Rescues</a></li></ul>
+</div>
+ 
+						</section>
+						</div>
+</div>
+
+<div class="module ad-primary" data-set="sidebar-ad">
+<div class="moving-markup">
+
+<script>
+responsiveAd({
+className: "moving-markup",
+ads: [
+
+{
+// Desktop
+type: "desktop",
+min: 480,
+size: [ "336x280", "300x250", "300x600"]
+},
+{
+// Tablet 
+type: "tablet",
+min: 480,
+size: [ "336x280", "300x250", "300x600"]
+},
+
+
+{
+// Mobile
+type: "mobile",
+min: 320,
+size: "300x250",
+config: {
+zone: "124158",
+site: "28275",
+min_size_x: "300",
+min_size_y: "50",
+size_x: "320", 
+size_y: "320",
+type: "-1"
+}
+}
+
+
+]
+});
+</script>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--></div>
+</div><!--/.module-ad-primary-->
+
+</div>
+
+<section class="module the-magazine mobile-left">
+						<!--[if IE 5]> Vignette StoryServer 5.0 Thu Jul 25 11:14:23 2013 <![endif]-->
+<h3 class="section-title"><a href="http://www.time.com/time/magazine">The Magazine </a><a class="subtext" href="https://subscription.time.com/storefront/subscribe-to-time/link/1004870.html" target="_blank">Subscribe</a></h3>
+
+	<div class="media">
+	<a href="/time/magazine"><img src="http://img.timeinc.net/time/images/covers/20130805_145.jpg" alt="Current Time.com Cover" /></a>
+	</div><!--/.media-block-->
+		
+	<ul class="top-stories">
+
+		
+			<li class="important lead"><a href="http://www.time.com/time/magazine/article/0,9171,2148171,00.html?pcd=hp-magmod"><span class="icon locked"></span>Broken City: Detroit</a></li><li class="important"><a href="http://www.time.com/time/magazine/article/0,9171,2148173,00.html?pcd=hp-magmod"><span class="icon locked"></span>The World's Most Dangerous Terrorist</a></li><li class="important"><a href="http://www.time.com/time/magazine/article/0,9171,2148168,00.html?pcd=hp-magmod"><span class="icon locked"></span>Political Dynasties Return</a></li><li class="important"><a href="http://www.time.com/time/magazine/article/0,9171,2148177,00.html?pcd=hp-magmod"><span class="icon locked"></span>Future of the Taxi</a></li><li class="important"><a href="http://www.time.com/time/magazine/article/0,9171,2148152,00.html">Virginia Postrel on Glamor and Terror</a></li>				
+			
+	<li><a href="http://www.time.com/time/magazine">Table of Contents</a></li>
+<li><a href="https://subscription.time.com/storefront/subscribe-to-time/link/1004864.html" target="_blank">Subscribe Now</a></li>
+<li><a href="http://www.time.com/time/archive">Online Issue Archive</a></li>
+</ul>
+						</section><!--/.module.the-magazine-->
+						<!--[if IE 5]> Vignette StoryServer 5.0 Sun Oct 21 16:12:17 2012 <![endif]-->
+<section class="module popular-content tabgroup mobile-right">
+
+<div class="ad">
+
+
+<script>
+responsiveAd({
+ads: [
+{
+// Desktop 728
+type: "desktop",
+min: 468,
+size: "88x31",
+position: 9
+}
+]
+});
+</script>
+<!--[if IE]><script>responsiveAd.shim()</script><![endif]--></div>
+<div class="tabgroup-panel most-read">
+<h3 class="section-title">Most Read</h3>
+<ol class="most-read-content">
+<!-- Sun Jul 28 09:15:11 EDT 2013 -->
+<li><a href="http://business.time.com/2011/06/06/homeowner-forecloses-on-bank-of-america-yes-you-heard-that-right/">Homeowner Forecloses on Bank of America </a>
+</li>
+<li><a href="http://healthland.time.com/2013/07/26/how-height-is-connected-to-cancer/">How Height Is Connected to Cancer</a>
+</li>
+<li><a href="http://world.time.com/2013/07/27/sixty-years-after-the-korean-war-the-cold-wars-unending-conflict-continues/">Sixty Years After the Korean War, the Cold War's Unending Conflict Continues</a>
+</li>
+<li><a href="http://techland.time.com/2013/07/26/are-we-really-that-crazy-about-the-remote-control/">Are We Really That Crazy About the Remote Control?</a>
+</li>
+<li><a href="http://entertainment.time.com/2013/06/27/the-25-best-songs-of-2013-so-far-2/">The 25 Best Songs of 2013 (So Far)</a>
+</li>
+<li><a href="http://techland.time.com/2013/07/01/50-best-android-apps-for-2013/">50 Best Android Apps for 2013</a>
+</li>
+<li><a href="http://nation.time.com/2013/07/26/too-big-to-cocktail-judge-upholds-weight-discrimination-in-the-workplace/">Too Big to Cocktail? Judge Upholds Weight Discrimination in the Workplace</a>
+</li>
+<li><a href="http://world.time.com/2013/07/27/whats-next-for-egypt/">What's Next for Egypt</a>
+</li>
+<li><a href="http://business.time.com/2013/07/24/what-it-means-to-be-wealthy-in-america-today/">What It Means to Be 'Wealthy' in America Today</a>
+</li>
+<li><a href="http://business.time.com/2013/07/11/when-retailer-asks-can-i-have-your-zip-code-just-say-no/">When a Retailer Asks, 'Can I Have Your ZIP Code?' Just Say No</a>
+</li>
+
+</ol>
+</div><!--/.most-read-->
+<div class="tabgroup-panel most-emailed">
+<h3 class="section-title">Most Emailed</h3>
+<ol class="most-emailed-content">
+<!-- Sun Jul 28 09:15:12 EDT 2013 -->
+<li><a href="http://newsfeed.time.com/2013/07/26/how-coffee-could-save-your-life/">How Coffee Could Save Your Life</a>
+</li>
+<li><a href="http://science.time.com/2013/07/28/the-bodies-in-the-bogs-an-eerie-gift-from-the-iron-age/">The Bodies in the Bogs: An Eerie Gift from the Iron Age</a>
+</li>
+<li><a href="http://healthland.time.com/2012/10/01/guide-the-31-healthiest-foods-of-all-time-with-recipes/">Guide: The 31 Healthiest Foods of All Time (with Recipes)</a>
+</li>
+<li><a href="http://healthland.time.com/2013/07/23/why-you-should-eat-breakfast-and-the-best-times-for-the-rest-of-the-days-meals/">Why You Should Eat Breakfast And the Best Times for the Rest of the Day's Meals</a>
+</li>
+<li><a href="http://newsfeed.time.com/2013/07/22/study-23-and-69-are-the-happiest-ages/">Study: 23 and 69 Are the Happiest Ages</a>
+</li>
+<li><a href="http://www.time.com/time/magazine/article/0,9171,2145062,00.html">How China Sees The World</a>
+</li>
+<li><a href="http://world.time.com/2013/06/13/nicaraguas-chinese-canal-behind-the-audacious-40-billion-bid-to-build-a-rival-panama-canal/">Nicaragua's Chinese Canal: Behind the Audacious $40 Billion Bid to Build a Rival Panama Canal</a>
+</li>
+<li><a href="http://healthland.time.com/2013/07/24/using-movement-to-diagnose-and-treat-autism/">Using Movement to Diagnose and Treat Autism </a>
+</li>
+<li><a href="http://world.time.com/2013/07/17/in-hong-kong-a-once-prominent-parsi-community-faces-demise/">In Hong Kong, a Once Prominent Parsi Community Faces Demise</a>
+</li>
+<li><a href="http://www.time.com/time/magazine/article/0,9171,2148174,00.html">A Fool's Errand Worth Pursuing</a>
+</li>
+
+</ol>
+</div><!--/.most-emailed-->
+</section><!--/.module.popular-content--><section class="module socializing mobile-left">
+<!--[if IE 5]> Vignette StoryServer 5.0 Tue May 28 11:57:09 2013 <![endif]-->
+				
+					
+								
+							
+								
+								<h3 class="section-title tab"><a href=""><a href='http://business.time.com/category/new-energy/
+' target='_blank'>Special Report</a><span class="subtext"></span></a></h3>
+								<div class="media pinterest">
+								<a href="http://business.time.com/category/new-energy/"><img src="http://img.timeinc.net/time/daily/2013/1305/232_new_energy_0528.jpg" alt="The 2012 Fisker Karma on wet race track in Fontana, California" title="The 2012 Fisker Karma on wet race track in Fontana, California" /></a>
+								</div><!--/.media-->
+								<div class="content">
+								<h4><a href="http://business.time.com/category/new-energy/">The Future of Energy</a></h4>
+								<p class="description">As the Earth's population booms and cities grow ever larger, the spotlight on energy innovation becomes greater. TIME looks into the new energy sources powering our world and sustaining our future.</p>
+								</div>
+								
+								
+								
+								
+								
+			</section><!--/.module.socializing-->
+
+
+<section class="module time-newsletters mobile-left">
+<!--[if IE 5]> Vignette StoryServer 5.0 Mon Oct 22 12:24:50 2012 <![endif]-->
+<h3 class="section-title"><a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_home_widget" target="_blank">TIME Newsletters</a><a class="subtext" href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_home_widget" target="_blank">See all Newsletters</a></h3>
+<div class="media">
+<a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_home_widget" target="_blank"><img src="http://img.timeinc.net/time/assets/images/module-time-newsletters.jpg" alt="Newsletter" /></a>
+</div><!--/.media-->
+<form id="newslFrm" action="http://ebm.cheetahmail.com/r/regf2" method="POST" target="_blank">
+<div class="content selections">
+<h4>Free! Sign Up Now</h4>
+<ul>
+<li>Breaking News</li>
+<li>Politics</li>
+<li>Entertainment</li>
+<li>LightBox</li>
+<li><em>and more...</em></li>
+</ul>
+</div><!--/.content-->
+<div class="response-fields">
+<div class="fieldgroup overlay-label">
+<label class="hidden" for="email">Your Email</label>
+<input class="validate" type="text" name="email" id="email" value="" />
+<input type="hidden" name="a" value="0" />
+<input type="hidden" name="aid" value="1078532063" />            
+<input type="hidden" name="n" value="1" />
+<input type="hidden" name="sub" value="1315847256" />
+<input type="hidden" name="TIME_SOURCE" value="Time_home_widget" /> 
+
+          
+</div>
+<button type="submit" id="nlSubmit" title="Click Here to Signup!">Go</button>
+</div>
+</form>
+
+</section><!--/.module.time-newsletters-->
+
+<section class="module time-voices mobile-right">
+<!--[if IE 5]> Vignette StoryServer 5.0 Fri Jul 26 14:36:30 2013 <![endif]-->
+<h3 class="section-title">Voices</h3>
+<div class="contributors pager">
+<ul style="width: 999em; ">		
+				
+				
+				<li class="contributor">
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148171,00.html"><img class="contributor-img" src="http://img.timeinc.net/time/daily/2013/1306/146_ranafaroohar.jpg" alt="" /></a>
+				<h4>Rana Foroohar</h4>
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148171,00.html"><p class="description">Broken City: Detroit</p></a>
+				</li><!--/.contributor-->					
+							
+				
+				<li class="contributor">
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148164,00.html?pcd=hp"><img class="contributor-img" src="http://img.timeinc.net/time/daily/2012/1210/146_stein.jpg" alt="" /></a>
+				<h4>Joel Stein</h4>
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148164,00.html?pcd=hp"><p class="description"><span class="icon locked"></span>A Call to Alms</p></a>
+				</li><!--/.contributor-->					
+							
+				
+				<li class="contributor">
+				<a href="http://entertainment.time.com/2013/07/24/the-wolverine-claws-and-fx/?pcd=hp"><img class="contributor-img" src="http://img.timeinc.net/time/daily/2012/1210/146_corliss.jpg" alt="" /></a>
+				<h4>Richard Corliss</h4>
+				<a href="http://entertainment.time.com/2013/07/24/the-wolverine-claws-and-fx/?pcd=hp"><p class="description"><span class="icon locked"></span><i>The Wolverine</i>: Claws and F/X</p></a>
+				</li><!--/.contributor-->					
+							
+				
+				<li class="contributor">
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148170,00.html"><img class="contributor-img" src="http://img.timeinc.net/time/daily/2012/1210/146_poniewozik.jpg" alt="" /></a>
+				<h4>James Poniewozik</h4>
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148170,00.html"><p class="description">Prison Breakout</p></a>
+				</li><!--/.contributor-->					
+							
+				
+				<li class="contributor">
+				<a href="http://www.time.com/time/magazine/article/0,9171,2147711,00.html"><img class="contributor-img" src="http://img.timeinc.net/time/daily/2012/1210/146_klein.jpg" alt="" /></a>
+				<h4>Joe Klein</h4>
+				<a href="http://www.time.com/time/magazine/article/0,9171,2147711,00.html"><p class="description">Trayvon's Death Is an Outrage, But ...</p></a>
+				</li><!--/.contributor-->					
+							
+				
+				<li class="contributor">
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148174,00.html?pcd=hp"><img class="contributor-img" src="http://img.timeinc.net/time/daily/2012/1210/146_zakaria.jpg" alt="" /></a>
+				<h4>Fareed Zakaria</h4>
+				<a href="http://www.time.com/time/magazine/article/0,9171,2148174,00.html?pcd=hp"><p class="description"><span class="icon locked"></span>A Fool's Errand Worth Pursuing</p></a>
+				</li><!--/.contributor-->					
+			</ul>
+</div><!--/.contributors-->
+
+</section><!--/.module.time-voices-->
+<!--[if IE 5]> Vignette StoryServer 5.0 Mon Oct 22 00:21:21 2012 <![endif]-->
+<div class="google-ad module sponsored-links mobile-left">
+
+	<script language="JavaScript">
+	<!--
+	function google_ad_request_done(google_ads) {
+		if (google_ads.length > 0) {
+			document.write('<span class="sponsored"><a target=_blank href=' + google_info.feedback_url + 
+			'>Sponsored Links</a> </span>');
+			
+		}
+		
+		
+		var i;
+		for(i = 0; i < google_ads.length; ++i) {
+		
+			document.write('<p><a class="ad-title" target=_blank href=' + google_ads[i].url + 
+			'>' + google_ads[i].line1 +
+			'</a><br><span class="ad-desc">' + google_ads[i].line2 +
+			'&nbsp;' + google_ads[i].line3 +
+			'</span><br><a class="ad-url" target=_blank href=' + google_ads[i].url +
+			'>' + google_ads[i].visible_url + '</a></p>');
+			 }
+						
+		
+	}
+	
+	
+	// REQUIRED VALUES
+	google_ad_client = 'ca-timeinc-time-bah';
+	google_ad_output = 'js';
+	google_max_num_ads = '3';
+	
+	
+	// OPTIONAL, USED
+	google_ad_type = 'text'; // type of ads to display
+	google_ad_channel = 'home_page';
+	google_safe = 'high';
+	
+	// -->
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> 
+	  
+</div>
+
+ <div class="module aside-ads mobile-right">
+  </div><!--/.module.ads-->
+
+</aside><!--/.right-col-->
+
+</div><!--/#content-body-->
+
+<!-- ==== / CONTENT BODY ==== -->
+
+
+<!-- ==== SITE FOOTER ==== -->
+
+<!--[if IE 5]> Vignette StoryServer 5.0 Wed Feb 27 13:05:13 2013 <![endif]-->
+
+<footer id="site-footer" class="constrain">
+<div class="footer-header">
+<ul class="time-apps">
+
+<li class="ipad">
+<a class="app" href="http://www.time.com/time/mobile-apps/ipad.html">
+<span class="icon"></span>
+<span class="app-name">iPad</span>
+</a>
+</li>
+
+<li class="iphone">
+<a class="app" href="http://www.time.com/time/mobile-apps/iphone.html">
+<span class="icon"></span>
+<span class="app-name">iPhone</span>
+</a>
+</li>
+
+<li class="android">
+<a class="app" href="http://www.time.com/time/mobile-apps/android.html">
+<span class="icon"></span>
+<span class="app-name">Android</span>
+</a>
+</li>
+
+
+<li class="time-tv">
+<a class="app" href="http://www.time.com/time/mobile-apps/timetv.html">
+<span class="icon"></span>
+<span class="app-name">TIME TV</span>
+</a>
+</li>
+
+<li class="populist">
+<a class="app" href="http://www.time.com/time/mobile-apps/populist.html">
+<span class="icon"></span>
+<span class="app-name">Populist</span>
+</a>
+</li>
+
+<li class="the-page">
+<a class="app" href="http://www.time.com/time/mobile-apps/thepage.html">
+<span class="icon"></span>
+<span class="app-name">The Page</span>
+</a>
+</li>
+
+
+</ul><!--/.time-apps-->
+</div><!--/.footer-header-->
+
+<section class="footer-body">
+
+<nav class="footer-nav">
+<ul class="nav-categories">
+<li class="home-link"><a href="http://www.time.com/time" class="nav-link">TIME Home</a></li><li class="item-1"><a title="NewsFeed" href="http://newsfeed.time.com/" class="nav-link">NewsFeed</a></li><li class="item-2"><a title="" href="http://nation.time.com/" class="nav-link">U.S.</a></li><li class="item-3"><a title="" href="http://swampland.time.com/" class="nav-link">Politics</a></li><li class="item-4"><a title="" href="http://world.time.com/" class="nav-link">World</a></li><li class="item-5"><a title="" href="http://business.time.com/" class="nav-link">Business</a></li><li class="item-6"><a title="" href="http://techland.time.com/" class="nav-link">Tech</a></li><li class="item-7"><a title="" href="http://healthland.time.com/" class="nav-link">Health</a></li><li class="item-8"><a title="" href="http://science.time.com/" class="nav-link">Science</a></li><li class="item-9"><a title="" href="http://entertainment.time.com/" class="nav-link">Entertainment</a></li><li class="item-10"><a title="" href="http://lightbox.time.com/" class="nav-link">Photos</a></li><li class="item-11"><a title="" href="http://www.time.com/time/video/" class="nav-link">Videos</a></li><li class="item-12"><a title="" href="http://www.time.com/time/specials" class="nav-link">Lists</a></li><li class="item-13"><a title="" href="http://www.time.com/time/magazine" class="nav-link">Magazine</a></li></ul>
+
+</nav><!--/.footer-nav-->
+
+<section class="footer-links">
+<ul class="adtl-links">
+<li class="item-1">&copy; 2013 Time Inc. All rights reserved &nbsp;</li><li class="item-2"><a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time?dnp_source=E">Privacy Policy</a></li><li class="item-3"><a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california">Your California Privacy Rights</a></li><li class="item-4"><a href="http://www.time.com/time/rss">RSS</a></li><li class="item-5"><a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1078532063&amp;n=1&amp;TIME_SOURCE=Time_footer" target="_blank">Newsletter</a></li><li class="item-6"><a href="http://www.time.com/time/mobile/">Mobile</a></li><li class="item-7"><a href="http://www.timeforkids.com/TFK/">TIME For Kids</a></li><li class="item-8"><a href="https://subscription.time.com/storefront/subscribe-to-time/link/1002093.html" rel="nofollow">Subscribe</a></li><li class="item-9"><a href="http://www.time.com/time/contactus/" rel="nofollow">Contact Us</a></li><li class="item-10"><a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/time" rel="nofollow">Terms of Use</a></li><li class="item-11"><a href="http://www.timemediakit.com/" rel="nofollow">Media Kit</a></li><li class="item-12"><a href="http://www.time.com/time/reprints" rel="nofollow">Reprints & Permissions</a></li><li class="item-13"><a href="http://www.time.com/time/faq" rel="nofollow">Help</a></li><li class="item-14"><a href="http://www.time.com/time/static/sitemap/">Site Map</a></li><li class="item-15"><a target="_blank" href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html">Ad Choices  <img src="http://img.timeinc.net/time/assets/images/adchoices.png" width="12" height="13" alt=""></a></li><li class="item-16"><a href="http://www.timeincnewsgroupcustompub.com/" rel="nofollow" target="_blank">Custom Content</a></li>
+</ul>
+
+</section>
+<div class="branding">
+<a href="http://www.time.com/time"><img class="time-logo" alt="TIME logo" src="http://img.timeinc.net/time/assets/images/ftr-logo.png" /></a>
+<div class="right">
+<h4>our partners</h4>
+<a target="_blank" href="http://www.cnn.com"><img class="cnn-logo" alt="CNN logo" src="http://img.timeinc.net/time/assets/images/ftr-cnn-logo.png" /></a>
+<a target="_blank" href="http://money.cnn.com"><img class="cnn-money-logo" alt="CNN Money logo" src="http://img.timeinc.net/time/assets/images/ftr-cnn-money-logo.png" /></a>
+</div>
+</div><!--/.branding-->
+
+</section><!--/.footer-body-->
+
+</footer>
+
+
+
+<script type="text/javascript" language="javascript" src="http://js.revsci.net/gateway/gw.js?csid=H07710"></script>
+<script type="text/javascript">
+	TiiAdTrackRevSci();
+</script>
+<script type="text/javascript" src="http://img.timeinc.net/time/assets/js/footer.min.js"></script>
+
+<!--[if IE 5]> Vignette StoryServer 5.0 Thu Feb 14 16:55:34 2013 <![endif]-->
+
+			
+							<script type="text/javascript">
+								
+								var _sf_async_config = {
+										uid:3088,
+										domain:window.domain,
+										pingServer:"ptimeinc.chartbeat.net",
+										path: $('meta[name="path"]' ).attr('content') == undefined ? "" : $('meta[name="path"]' ).attr('content'),
+										canonical: $('link[rel="canonical"]' ).attr('href') == undefined ? "" : $('link[rel="canonical"]' ).attr('href'),
+										sections:(typeof(s_time.prop16)=="undefined") ? "" : s_time.prop16,
+										authors: $('meta[name="byline"]' ).attr('content') == undefined ? "" : $('meta[name="byline"]' ).attr('content')
+										
+										};
+									
+									
+
+									
+								(function(){
+									function loadChartbeat() {
+									  window._sf_endpt=(new Date()).getTime();
+									  var e = document.createElement('script');
+									  e.setAttribute('language', 'javascript');
+									  e.setAttribute('type', 'text/javascript');
+									  e.setAttribute('src',
+									     (("https:" == document.location.protocol) ?
+									"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+									"http://static.chartbeat.com/") +
+									     "js/chartbeat.js");
+									  document.body.appendChild(e);
+									}
+
+								 	var oldonload = window.onload;
+									window.onload = (typeof window.onload != 'function') ?
+									   loadChartbeat : function() { oldonload(); loadChartbeat(); };
+									})();
+
+								
+								</script>
+								
+
+			<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-606332h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-606332h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- ==== / SITE FOOTER ==== -->
+
+</body>
+
+</html>
